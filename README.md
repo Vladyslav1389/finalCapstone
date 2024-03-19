@@ -19,7 +19,7 @@ Run the "task-manager.py" file in the Visual Studio Code.
     
    1. Login
 
-   ![First loggin](https://github.com/Vladyslav1389/byb_project/blob/master/First%20Login.png)
+   ![First loggin](https://github.com/Vladyslav1389/finalCapstone/blob/master/Images/First%20Login.png)
   
   Note: For the first time, the default credentials you should use are: Username-admin, Password-password.
 

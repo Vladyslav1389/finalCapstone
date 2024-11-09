@@ -83,6 +83,12 @@ Basic knowledge of Python and command line interface
    7. Displaying a report to the terminal.
    ![Displaying a report](https://github.com/Vladyslav1389/finalCapstone/blob/master/Images/Displaying%20the%20report.png)
 ***
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## Acknowledgments
+Thanks to the amazing team at CoGrammar for their support and guidance.
 ## Section for credits
 
 The whole project was written by [Vladyslav Shcherbak](https://github.com/Vladyslav1389 "https://github.com/Vladyslav1389")

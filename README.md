@@ -1,7 +1,31 @@
 
 # Task Manager
 
-It is a task manager that allows to add users, add tasks, modify tasks( change the person to whom the task is assigned, change the due date, and mark a task as completed). Track all tasks and track tasks that are assigned to each person. It also allows the admin to generate, display and write reports into a file.
+This Task Management System is a Python-based application that allows users to manage tasks efficiently. It includes functionalities for user registration, task creation, task overview reporting, and user-specific task management. The system supports different user roles, with the admin user having additional capabilities like generating and displaying statistics.
+
+## Features
+User Authentication: Secure login system with username and password.
+
+User Registration: Admin can register new users.
+
+Task Management: Users can add tasks, view all tasks, and view tasks assigned to them.
+
+Reporting: Generate and view task and user overview reports (admin only).
+
+Input Validation: Ensures clean and valid user inputs.
+
+File Storage: User and task data is stored in text files for persistence.
+
+## File Structure
+main.py: The main script containing all functionalities.
+
+user.txt: Stores user data (username and password).
+
+tasks.txt: Stores task data.
+
+task_overview.txt: Stores task overview report.
+
+user_overview.txt: Stores user overview report.
 
 ## The table of content
 
@@ -9,11 +33,20 @@ It is a task manager that allows to add users, add tasks, modify tasks( change t
 2. Usage section.
 3. Section for credits.
 ## Installation section
+Prerequisites
+Python 3.x
 
-Run the "task-manager.py" file in the Visual Studio Code.
+Basic knowledge of Python and command line interface
+
+## Installation
+#### Clone the repository:
+    git clone https://github.com/Vladyslav1389/finalCapstone.git
+    cd finalCapstone
+### #Run the application:
+    task-manager.py
+
 ## Usage section
 
-Run the "task-manager.py" file in the Visual Studio Code.
 ***
 ### Options that you can do:
     
